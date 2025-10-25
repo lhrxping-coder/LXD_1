@@ -1,0 +1,6 @@
+discord.py==2.6.4
+aiohttp==3.9.5
+psutil==5.9.5
+requests==2.32.3
+aiosqlite==0.18.0
+colorama==0.4.6
