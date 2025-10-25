@@ -1,0 +1,6 @@
+{
+  "basic": { "name": "Basic", "ram_mb": 512, "cpu": 1, "disk_gb": 10, "price": 1 },
+  "small": { "name": "Small", "ram_mb": 1024, "cpu": 1, "disk_gb": 20, "price": 2 },
+  "medium": { "name": "Medium", "ram_mb": 2048, "cpu": 2, "disk_gb": 40, "price": 4 },
+  "large": { "name": "Large", "ram_mb": 4096, "cpu": 4, "disk_gb": 80, "price": 8 }
+}
