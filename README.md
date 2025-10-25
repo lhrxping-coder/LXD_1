@@ -22,6 +22,10 @@ This bot allows Discord admins to manage LXC containers directly from a Discord 
 
 ```sudo apt update && sudo apt upgrade -y```
 
+```sudo apt install python```  /   ```sudo apt install python3```
+
+```sudo apt install pip -y```
+
 ```sudo apt install -y git python3 python3-venv python3-pip lxd lxc```
 
 ### 2️⃣ Initialize LXD
@@ -33,7 +37,7 @@ This bot allows Discord admins to manage LXC containers directly from a Discord 
 
 ### 3️⃣ Clone Bot Repository
 
-```git clone https://github.com/yourname/LXC-Discord-Bot.git```
+```git clone https://github.com/lhrxping-coder/LXD_1.git```
 ``cd LXD_1``
 
 ### 4️⃣ Create and Activate Python Virtual Environment
@@ -72,3 +76,11 @@ This bot allows Discord admins to manage LXC containers directly from a Discord 
 | `!buyc`                                | Buy a VPS with credits      |
 | `!buywc`                               | Buy VPS without credits     |
 | `!manage`                              | Admin: list all containers  |
+
+
+██╗░██╗  ░██████╗██████╗░███████╗  ██╗░░░░░░░░
+╚═╝██╔╝  ██╔════╝██╔══██╗██╔════╝  ╚██╗░░░░░░░
+░░██╔╝░  ╚█████╗░██║░░██║█████╗░░  ░╚██╗░░░░░░
+░██╔╝░░  ░╚═══██╗██║░░██║██╔══╝░░  ░██╔╝░░░░░░
+██╔╝██╗  ██████╔╝██████╔╝██║░░░░░  ██╔╝░██╗██╗
+╚═╝░╚═╝  ╚═════╝░╚═════╝░╚═╝░░░░░  ╚═╝░░╚═╝╚═╝
