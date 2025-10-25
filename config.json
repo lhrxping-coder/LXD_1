@@ -1,0 +1,6 @@
+{
+  "BOT_TOKEN": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "ADMIN_ROLE_ID": "YOUR_ADMIN_ROLE_ID_HERE",
+  "LXC_PATH": "/usr/bin/lxc",
+  "FAKE_MODE_IF_NO_LXC": false
+}
