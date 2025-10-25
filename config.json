@@ -1,9 +1,7 @@
 {
-  "BOT_TOKEN": "YOUR_BOT_TOKEN_HERE",
+  "BOT_TOKEN": "YOUR_DISCORD_BOT_TOKEN_HERE",
   "ADMIN_ROLE_ID": "123456789012345678",
-  "plans": {
-    "basic": { "ram": "1GB", "cpu": "1", "disk": "10GB" },
-    "pro": { "ram": "2GB", "cpu": "2", "disk": "25GB" },
-    "elite": { "ram": "4GB", "cpu": "4", "disk": "50GB" }
-  }
+  "LXC_PATHS": ["/usr/bin/lxc", "/snap/bin/lxc"],
+  "LXC_DEFAULT_IMAGE": "images:ubuntu/22.04",
+  "FAKE_IF_NO_LXC": true
 }
