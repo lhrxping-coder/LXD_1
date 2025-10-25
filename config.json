@@ -1,6 +1,9 @@
 {
-  "BOT_TOKEN": "YOUR_DISCORD_BOT_TOKEN_HERE",
-  "ADMIN_ROLE_ID": "YOUR_ADMIN_ROLE_ID_HERE",
-  "LXC_PATH": "/usr/bin/lxc",
-  "FAKE_MODE_IF_NO_LXC": false
+  "BOT_TOKEN": "YOUR_BOT_TOKEN_HERE",
+  "ADMIN_ROLE_ID": "123456789012345678",
+  "plans": {
+    "basic": { "ram": "1GB", "cpu": "1", "disk": "10GB" },
+    "pro": { "ram": "2GB", "cpu": "2", "disk": "25GB" },
+    "elite": { "ram": "4GB", "cpu": "4", "disk": "50GB" }
+  }
 }
