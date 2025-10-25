@@ -76,11 +76,3 @@ This bot allows Discord admins to manage LXC containers directly from a Discord 
 | `!buyc`                                | Buy a VPS with credits      |
 | `!buywc`                               | Buy VPS without credits     |
 | `!manage`                              | Admin: list all containers  |
-
-
-██╗░██╗  ░██████╗██████╗░███████╗  ██╗░░░░░░░░
-╚═╝██╔╝  ██╔════╝██╔══██╗██╔════╝  ╚██╗░░░░░░░
-░░██╔╝░  ╚█████╗░██║░░██║█████╗░░  ░╚██╗░░░░░░
-░██╔╝░░  ░╚═══██╗██║░░██║██╔══╝░░  ░██╔╝░░░░░░
-██╔╝██╗  ██████╔╝██████╔╝██║░░░░░  ██╔╝░██╗██╗
-╚═╝░╚═╝  ╚═════╝░╚═════╝░╚═╝░░░░░  ╚═╝░░╚═╝╚═╝
