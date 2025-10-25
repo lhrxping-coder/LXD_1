@@ -61,6 +61,7 @@ This bot allows Discord admins to manage LXC containers directly from a Discord 
 
 ### 7️⃣ Run the Bot
 ```bash run.sh```
+
 ------------------------------------------------------->
                  BOT  Functions 
 ------------------------------------------------------->
