@@ -21,6 +21,7 @@ This bot allows Discord admins to manage LXC containers directly from a Discord 
 # bash
 
 ```sudo apt update && sudo apt upgrade -y```
+
 ```sudo apt install -y git python3 python3-venv python3-pip lxd lxc```
 
 ### 2️⃣ Initialize LXD
