@@ -17,40 +17,47 @@ This bot allows Discord admins to manage LXC containers directly from a Discord 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Install Required Packages
-```bash
-sudo apt update && sudo apt upgrade -y
-sudo apt install -y git python3 python3-venv python3-pip lxd lxc
 
-2️⃣ Initialize LXD
-sudo lxd init
+# bash
+
+```sudo apt update && sudo apt upgrade -y```
+```sudo apt install -y git python3 python3-venv python3-pip lxd lxc```
+
+### 2️⃣ Initialize LXD
+
+```sudo lxd init```
 
 
-(Press Enter for defaults or configure manually.)
+# (Press Enter for defaults or configure manually.)
 
-3️⃣ Clone Bot Repository
-git clone https://github.com/yourname/LXC-Discord-Bot.git
-cd LXC-Discord-Bot
+### 3️⃣ Clone Bot Repository
 
-4️⃣ Create and Activate Python Virtual Environment
-python3 -m venv venv
-source venv/bin/activate
+```git clone https://github.com/yourname/LXC-Discord-Bot.git```
+``cd LXD_1``
 
-5️⃣ Install Python Dependencies
-pip install -r requirements.txt
+### 4️⃣ Create and Activate Python Virtual Environment
+```python3 -m venv venv```
+```source venv/bin/activate```
 
-6️⃣ Configure Your Bot
+### 5️⃣ Install Python Dependencies
+```pip install -r requirements.txt```
 
-Edit config.json:
+### 6️⃣ Configure Your Bot
+
+# Edit config.json:
+
+```nano config.json```
+# then 
 
 {
-  "BOT_TOKEN": "YOUR_DISCORD_BOT_TOKEN",
-  "ADMIN_ROLE_ID": "YOUR_ADMIN_ROLE_ID"
+  "BOT_TOKEN": " here pest your bot token ",
+  "ADMIN_ROLE_ID": " here pest your admin roll ID "
 }
 
-7️⃣ Run the Bot
-bash run.sh
+### 7️⃣ Run the Bot
+```bash run.sh```
 ------------------------------------------------------->
-           functions 
+                 BOT  Functions 
 ------------------------------------------------------->
 | Command                                | Description                 |
 | -------------------------------------- | --------------------------- |
